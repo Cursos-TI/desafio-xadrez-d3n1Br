@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
+    int i;
 
-    int i = 0;
     // Mover a torre 5 casas para direita //
     for (i = 0; i < 5; i++){
         printf("Torre movimentada para Direita! \n");
